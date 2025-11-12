@@ -9,10 +9,10 @@
 
 ### 🎯 Project Overview  
 This project explores **insurance risk and claim behavior** using real-world analytical insights.  
-The goal was to understand how different factors — such as **policy type, car make, coverage zone, age group, and education** — impact the total claim amount and claim frequency.  
+The goal was to understand how different factors, such as **policy type, car make, coverage zone, age group, and education**, impact the total claim amount and claim frequency.  
 
 Through this dashboard, I simulated how insurance analysts monitor key metrics like policy growth, claim distribution, and risk concentration.  
-It became an excellent exercise in combining **data analytics, visualization, and business domain understanding** — bringing data to life through insights.  
+It became an excellent exercise in combining **data analytics, visualization, and business domain understanding**, bringing data to life through insights.  
 
 ---
 
@@ -84,10 +84,10 @@ SWITCH(
 )
 ```    
 ### 💡 What I Learned  
-- Analytics isn’t just about numbers — it’s about **understanding the story behind data**.  
+- Analytics isn’t just about numbers, it’s about **understanding the story behind data**.  
 - I learned how insurance data can reveal customer behavior, risk trends, and claim patterns.  
 - Building this project helped me improve my **DAX logic, visualization clarity, and business thinking**.  
-- I realized that every dataset has its own rhythm — this one taught me how **data connects to real financial impact and risk insight**.  
+- I realized that every dataset has its own rhythm, this one taught me how **data connects to real financial impact and risk insight**.  
 
 ---
 
