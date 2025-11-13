@@ -96,7 +96,9 @@ A complete **Insurance Risk and Claims Analysis Dashboard** that shows:
 - Real-world problem-solving through analytics  
 - Strong DAX understanding and parameter logic  
 - Ability to combine data visualization with business context  
-- Confidence to analyze financial, operational, and demographic data  
+- Confidence to analyze financial, operational, and demographic data
+
+---
   
 **👤 Author:** Shagun Sharma  
 **💼 Role:** Data Analyst
