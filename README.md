@@ -51,7 +51,7 @@ The main aim was to turn raw policy and claims data into **actionable insights**
 ### **For Current Parameter: Total Policies**
 
 - **Customer Demographics:**  
-  - Gender distribution was balanced — **18,736 male** vs **18,806 female** policyholders.  
+  - Gender distribution was balanced, **18,736 male** vs **18,806 female** policyholders.  
   - **Bachelors (49.8%)** represented the largest education segment.  
   - Majority of policyholders fell within the **26–55 age range**, highlighting a mature customer base.  
 
@@ -67,7 +67,7 @@ The main aim was to turn raw policy and claims data into **actionable insights**
 ---
 
 ### 🧭 Dynamic Measure Feature  
-This dashboard includes a **Measure Selector Parameter** that enables users to toggle between major KPIs —  
+This dashboard includes a **Measure Selector Parameter** that enables users to toggle between major KPIs, 
 providing a flexible and interactive experience for deeper analysis:  
 
 - **Total Policies**  
